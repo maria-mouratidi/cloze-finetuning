@@ -4,17 +4,6 @@
 
 This project implements fine-tuning of GPT-2 models on human next-word prediction (Cloze) datasets to better approximate human language prediction patterns. Based on the research conducted at Tilburg University by Maria Mouratidi under the supervision of Bruno Nicenboim adn Giovanni Casanni.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Datasets](#datasets)
-- [Results](#results)
-- [Contributing](#contributing)
-
 ## Overview
 
 This research investigates whether fine-tuning GPT-2 on Cloze datasets (human next-word predictions) can improve the model's ability to predict human reading patterns. The project includes:
